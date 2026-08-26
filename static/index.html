@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="salon">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>MINX</title>
+    <meta name="description" content="MINX pours tea stories — family-friendly or unhinged — with Google, Reddit, and archive results." />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <div class="wrap">
+      <header>
+        <button class="brand" type="button" id="home">MINX</button>
+        <div class="mode" role="group" aria-label="Mode">
+          <button type="button" data-mode="family" class="on">Family-friendly</button>
+          <button type="button" data-mode="unhinged">Unhinged</button>
+        </div>
+      </header>
+      <main>
+        <div class="photos" id="photos">
+          <figure class="polaroid"><img src="/photos/minx-1.png" alt="Placeholder for Minx photo 1" /></figure>
+          <figure class="polaroid"><img src="/photos/minx-2.png" alt="Placeholder for Minx photo 2" /></figure>
+          <figure class="polaroid"><img src="/photos/minx-3.png" alt="Placeholder for Minx photo 3" /></figure>
+        </div>
+        <h1 class="logo">MINX</h1>
+        <p class="tag" id="tag">Family-friendly pours. Switch to Unhinged for darker tea.</p>
+        <form class="search" id="form">
+          <div class="field">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3-3"/></svg>
+            <label for="q" style="position:absolute;left:-9999px">Tea topic</label>
+            <input id="q" name="q" placeholder="politics, dark secrets, fantasy, friends..." autocomplete="off" />
+          </div>
+          <button class="minx-btn" type="submit" id="go">Minx it</button>
+        </form>
+        <div class="chips" id="chips"></div>
+        <div class="themes" id="themes">
+          <span class="hint" style="margin:0 8px 0 0">Theme</span>
+        </div>
+        <p class="err" id="err" hidden></p>
+        <div id="out"></div>
+        <p class="hint" id="photo-hint">Photo frames are placeholders — drop PNG/JPG in static/photos and update names in index.html if needed.</p>
+      </main>
+    </div>
+    <script src="/app.js"></script>
+  </body>
+</html>
