@@ -21,3 +21,5 @@ and update the paths in `static/index.html` if you change the extension.
 - Family-friendly / Unhinged modes
 - Themes: Salon, Ink, Midnight, Matcha, Rose
 - 100+ results per search (archive + Google-style links + optional live Reddit)
+
+I Love You
