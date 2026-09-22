@@ -22,4 +22,4 @@ and update the paths in `static/index.html` if you change the extension.
 - Themes: Salon, Ink, Midnight, Matcha, Rose
 - 100+ results per search (archive + Google-style links + optional live Reddit)
 
-Without You Every Hour Feels Endless.
+I can't Live without you my love but i have to learn to stay without you whole life
