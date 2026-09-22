@@ -22,4 +22,4 @@ and update the paths in `static/index.html` if you change the extension.
 - Themes: Salon, Ink, Midnight, Matcha, Rose
 - 100+ results per search (archive + Google-style links + optional live Reddit)
 
-I am Still afraid to lose you.
+Without You Every Hour Feels Endless.
