@@ -17,3 +17,5 @@ So, I am telling this here: -
 That's why I chose this platform to bury my feelings.
 And for now, that will have to be enough…
 even if you never know.
+
+Maybe because I am not successful and she will never choose a struggling guy.
