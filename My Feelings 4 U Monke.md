@@ -21,7 +21,7 @@ even if you never know.
 Maybe because I am not successful and she will never choose a struggling guy.
 
     Even if we are married or not, we are together or not, I will 
-    always make efforts to make your life happier each time we talk.
+    always make efforts to make your life happier each time if possible.
 
     Attachment says you are mine, but love says you are free.
     for your happiness I am going to do anything even
