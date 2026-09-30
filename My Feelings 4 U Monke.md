@@ -1,6 +1,6 @@
-Well the girl for whom I made this website for, will never know how much i love her.
+Well the girl for whom I made this website for, will never know how much I love her.
 
-She is not a techie girl so she will never know that i left feelings here.
+She is not a techie girl, she don't have.  a so she will never know that I left feelings here.
 
 She is my best friend and I don't have enough courage to confess my feelings for her. 
 
