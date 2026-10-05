@@ -26,6 +26,8 @@ Maybe because I am not successful and she will never choose a struggling guy.
     I chose to live in regret of not having you my whole life.
     I will stand by you monke, I love you and I don't need anything from you not even your love.
 
+There's More to say and I will write those feelings here when I remember More 
+
 ~ Aaryan
 But I also wish that you won't make me feel that you didn't wroth the effort.
 My detachment Process starts from here.
