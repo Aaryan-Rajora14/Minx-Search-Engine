@@ -31,5 +31,3 @@ There's More to say and I will write those feelings here when I remember More
 ~ Aaryan
 But I also wish that you won't make me feel that you didn't wroth the effort.
 My detachment Process starts from here.
-
-I should know that you are a tantrum queen.
