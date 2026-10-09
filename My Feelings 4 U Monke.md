@@ -26,5 +26,5 @@ Maybe because I am not successful and she will never choose a struggling guy.
 There's More to say and I will write those feelings here when I remember More 
 
 ~ Aaryan
-But I also wish that you won't make me feel that you didn't wroth the effort.
+But I also wish that you won't make me feel that you didn't worth the effort.
 My detachment Process starts from here.
