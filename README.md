@@ -1,5 +1,4 @@
 # MINX — easy local run (Python only)
-
 No Node, no npm, no pip packages. Python 3 standard library only.
 
 ## Run
