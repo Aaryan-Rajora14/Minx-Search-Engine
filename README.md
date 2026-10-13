@@ -7,7 +7,7 @@ No Node, no npm, no pip packages. Python 3 standard library only.
 python3 server.py
 ```
 
-Then open: http://localhost:8080 use 8000 if it shows any problem
+Then open: http://localhost:8080 use port 8000 if it shows any problem
 
 ## Photos
 
