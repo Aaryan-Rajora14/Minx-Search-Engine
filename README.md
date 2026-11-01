@@ -8,7 +8,7 @@ python3 server.py
 ```
 
 Then open: http://localhost:8080 use port 8000 if it shows any problem
-kl
+
 ## Photos
 
 Put images in `static/photos/` as `minx-1.png`, `minx-2.png`, `minx-3.png`
