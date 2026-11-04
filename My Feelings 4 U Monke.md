@@ -30,3 +30,4 @@ There's More to say and I will write those feelings here when I remember More
 
 What Are you doing 😡
 why are you still holding into it 
+have you forgotten what she said to you what she did.
