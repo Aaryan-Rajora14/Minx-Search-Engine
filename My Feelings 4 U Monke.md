@@ -29,7 +29,7 @@ There's More to say and I will write those feelings here when I remember More
 I don't want to undress you 
 I want to understand you 
 
-
+I want to touch your part where hands can't reach. 
 
 ~ Aaryan
 
