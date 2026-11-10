@@ -27,6 +27,9 @@ Maybe because I am not successful and she will never choose a struggling guy.
 There's More to say and I will write those feelings here when I remember More 
 
 I don't want to undress you 
+I want to understand you 
+
+
 
 ~ Aaryan
 
